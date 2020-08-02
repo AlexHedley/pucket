@@ -7,6 +7,22 @@
             "description":"First game to try it out",
             "winner": "Alex H",
             "loser": "Alex D"
+        },
+        {
+            "id": 2,
+            "name":"Game 2",
+            "date":"2020-08-01",
+            "description":"First game with the twin",
+            "winner": "Jonathan H",
+            "loser": "Alex"
+        },
+        {
+            "id": 3,
+            "name":"Game 2",
+            "date":"2020-08-01",
+            "description":"Second game with the twin",
+            "winner": "Jonathan H",
+            "loser": "Alex"
         }
     ]
 }
